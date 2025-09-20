@@ -1,4 +1,3 @@
-```markdown
 # ZilMoney Evaluation API
 
 A **FastAPI** application for managing users, expenses, and budgets, built with **async SQLAlchemy**, **PostgreSQL**, **Alembic migrations**, and **JWT authentication**.
@@ -231,7 +230,5 @@ htmlcov/
 
 MIT License
 
-```
 
----
 
